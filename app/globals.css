@@ -25,3 +25,12 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.contentContainer {
+  flex: 1;
+}
+
+.contentItems {
+  min-height: 100dvh
+}

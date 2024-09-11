@@ -43,7 +43,7 @@ const Contact = () => {
         <h3
           className={`${poppinsBold.className} ${styles.contactHeaderMessage}`}
         >
-          It's time to get in touch. Happy to hear from you!
+          Its time to get in touch. Happy to hear from you!
         </h3>
         <form onSubmit={contactFormHandler} className={styles.formContainer}>
           <div className={styles.eachInputComp}>

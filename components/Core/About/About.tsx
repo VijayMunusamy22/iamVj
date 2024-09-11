@@ -24,7 +24,7 @@ const About = () => {
         <p
           className={`${poppinsRegular.className} ${styles.descriptionContent}`}
         >
-          Hey there! I'm{" "}
+          Hey there! Im{" "}
           <span className={`${poppinsMedium.className} ${styles.highlighter}`}>
             Vijay Munusamy
           </span>
@@ -33,12 +33,12 @@ const About = () => {
             6 years of experience
           </span>{" "}
           in crafting sleek, cutting-edge web experiences. When it comes to
-          front-end magic, I’m your go-to wizard, conjuring up intuitive
+          front-end magic, Im your go-to wizard, conjuring up intuitive
           interfaces with the latest technologies. On the flip side, I dive into
           the cloud with AWS expertise to build robust, scalable back-end
-          solutions. Whether it's making pixels dance or wrangling cloud
+          solutions. Whether its making pixels dance or wrangling cloud
           infrastructure, I turn complex problems into seamless, elegant
-          solutions. Let’s build something awesome together!
+          solutions. Lets build something awesome together!
         </p>
       </div>
       <div className={styles.imageContainer}>
